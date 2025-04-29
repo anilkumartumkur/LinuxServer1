@@ -54,4 +54,3 @@ Day 5.
 9.sudo passwd passsword
 10.su - user
 11.for root sudo su -
-12.=============================
