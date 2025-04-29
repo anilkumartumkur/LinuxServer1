@@ -1,0 +1,57 @@
+Day1:
+1.pwd
+2.ls
+3.ls -lt
+4.ls -lrt
+5.cd dirname
+6.cd .. or cd ../../
+7.touch filename
+8.mkdir dirname
+9.vi filename
+10. cat filename
+inside vi
+1.esc :i
+2.es :wq!
+3.esc :%s/linux/window/g
+4.set nu
+5.set nonu
+6.esc :q!
+7.cat -n filename
+
+Day2:
+1.cp
+2.mv
+3.chmod
+4.chown
+5.echo
+6.>(redirect)
+7.>>(upend)
+8.df -h(system diesc)
+9.du -sh(file or dir size)
+10.free -h(ram size)
+
+Day 3.
+1.head
+2.tail
+3.||
+4.grep
+5.sed
+6.cut
+7.awk
+
+Day4.
+1.Find
+ 
+Day 5.
+1.ln
+2.ls -i
+3.ps -ef
+4.ps -u username
+5.kill
+6.sudo service name stop or start
+7.umask
+8.sudo useradd username
+9.sudo passwd passsword
+10.su - user
+11.for root sudo su -
+12.
